@@ -1,0 +1,48 @@
+// Base styles
+// Setup your baseline, selection and links
+// =================================================================================
+
+// Vertical rhythm
+@include establish-baseline( 13px );
+
+/* 	SELECTION
+	----------------- */
+@include selection( $linkColor, $white );
+
+
+/* 	LINKS
+	----------------- */
+a {
+	color: $linkColor;
+	text-decoration: none;
+	&:visited {
+		color: $linkColor;
+	}
+	&:hover {
+		color: $linkHover;
+		text-decoration: none;
+	}
+	&:focus {
+		outline: thin dotted;
+	}
+}
+
+
+/* 	STRUCTURAL LAYOUT
+	----------------- */
+.site-main {
+	margin: 0 auto;
+	width: 650px;
+	position: relative;
+}
+
+.content-area {
+	background: $white;
+	@include border-radius(3px);
+	@include box-shadow( 0px 0px 2px rgba($black, .05));
+	border: 1px solid $grayLight;
+	margin: 30px 0;
+	padding: 30px;
+	position: relative;
+	width: 700px;
+}

@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hideung - 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-21 11:03+0700\n"
+"PO-Revision-Date: 2013-03-21 11:03+0700\n"
+"Last-Translator: Onnay Okheng <onnay.okheng@gmail.com>\n"
+"Language-Team: Onnay Okheng <onnay.okheng@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/nesia/wp-content/themes/hideung\n"
+"X-Poedit-Language: en_EN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:45
+msgid "Archives"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: content.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:30
+#: image.php:65
+#: page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content.php:41
+#: content.php:51
+msgid ", "
+msgstr ""
+
+#: content.php:45
+#, php-format
+msgid "<strong>Posted in</strong> %s"
+msgstr ""
+
+#: content.php:55
+#, php-format
+msgid "<strong>Tags:</strong> %s"
+msgstr ""
+
+#: content.php:60
+#: page.php:27
+msgid "Leave a comment"
+msgstr ""
+
+#: content.php:60
+#: page.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:60
+#: page.php:27
+msgid "% Comments"
+msgstr ""
+
+#: content.php:63
+#: image.php:101
+#: page.php:30
+msgid "Edit"
+msgstr ""
+
+#: footer.php:15
+#, php-format
+msgid "Proudly powered by <a href=\"http://wordpress.org/\" title=\"%1$s\" rel=\"generator\">%2$s</a><br/> Theme: <a href=\"http://onnayokheng.com/hideung-minimalist-wordpress-theme/\" title=\"%3$s\" rel=\"theme\">%4$s</a> by <a href=\"http://onnayokheng.com/\" title=\"%5$s\" rel=\"designer\">%6$s</a>"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:93
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: functions.php:142
+#, php-format
+msgid "<strong>On</strong> <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a>"
+msgstr ""
+
+#: functions.php:202
+#: functions.php:208
+msgid "Page"
+msgstr ""
+
+#: functions.php:225
+msgid "Untitled"
+msgstr ""
+
+#: functions.php:244
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:244
+#: functions.php:259
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:257
+#, php-format
+msgid "&middot; %1$s at %2$s &middot;"
+msgstr ""
+
+#: functions.php:261
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:312
+#, php-format
+msgid "&copy; Copyright %1$s <a href=\"%2$s\" title=\"%3$s\">%4$s</a>"
+msgstr ""
+
+#: image.php:67
+msgid "More from this gallery"
+msgstr ""
+
+#: image.php:82
+#, php-format
+msgid "<span class=\"posted-on\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> <span class=\"download-link\"><a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a></span> <span class=\"gallery-link\"><a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a></span>"
+msgstr ""
+
+#: image.php:93
+#, php-format
+msgid "<span class=\"comments-link\"><a class=\"comment-link\" href=\"#respond\" title=\"Leave a comment\">Leave a comment</a> or <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">leave a trackback</a></span>"
+msgstr ""
+
+#: image.php:95
+#, php-format
+msgid "<span class=\"comments-link\"><a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Leave a trackback</a></span>"
+msgstr ""
+
+#: image.php:97
+msgid "<span class=\"comments-link\"><a class=\"comment-link\" href=\"#respond\" title=\"Leave a comment\">Leave a comment</a></span>"
+msgstr ""
+
+#: image.php:99
+msgid "<span class=\"comments-link\">Both comments and trackbacks are currently closed</span>"
+msgstr ""
+
+#: no-results.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:13
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:17
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Menu"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Customize Hideung"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Socials Settings"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Facebook Username"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Google+ ID"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Flickr Username"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Linkedin Username"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Pinterest Username"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Dribbble Username"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Github Username"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Vimeo Username"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Forrst Username"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Zerply Username"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Sidebar Static"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Footer text"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Custom CSS"
+msgstr ""
+
+#: page-templates/sitemap.php:25
+msgid "Last 20 Posts"
+msgstr ""
+
+#: page-templates/sitemap.php:33
+msgid "Pages"
+msgstr ""
+
+#: page-templates/sitemap.php:36
+msgid "Categories"
+msgstr ""
+
+#: page-templates/sitemap.php:42
+msgid "Tags"
+msgstr ""
+
